@@ -1,2 +1,0 @@
-int32 left_encoder
-int32 right_encoder
